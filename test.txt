@@ -3,3 +3,6 @@ adding one more line
 
 
 this is for changes in feature_2 file
+
+
+again changing for feature_3
