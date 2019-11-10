@@ -6,3 +6,6 @@ this is for changes in feature_2 file
 
 
 again changing for feature_3
+
+
+this is the change i dont want
