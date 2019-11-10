@@ -1,11 +1,4 @@
 this is the first change for feature_1 file
 adding one more line
 
-
-this is for changes in feature_2 file
-
-
-again changing for feature_3
-
-
-this is the change i dont want
+this is for gitkraken
