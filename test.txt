@@ -1,4 +1,12 @@
 this is the first change for feature_1 file
+
+making some changes for feature_1 file
+
 adding one more line
 
+<<<<<<< HEAD
 this is for gitkraken
+=======
+
+this is for gitkraken
+>>>>>>> feature_1
