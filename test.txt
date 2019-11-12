@@ -6,3 +6,9 @@ adding one more line
 
 
 this is for gitkraken
+
+
+
+
+
+and this is im doing in feature_1 file
