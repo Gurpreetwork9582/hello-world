@@ -1,3 +1,9 @@
 this is for feature_3 file
 
+<<<<<<< HEAD
 this is what im doing at home.
+=======
+this is what im doing at home.
+
+this is for not making mistake
+>>>>>>> feature_1
