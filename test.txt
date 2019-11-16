@@ -4,11 +4,18 @@ making some changes for feature_1 file
 
 adding one more line
 
+<<<<<<< HEAD
+this is for gitkraken
+=======
 
 this is for gitkraken
+<<<<<<< HEAD
+>>>>>>> feature_1
+=======
 
 
 
 
 
 and this is im doing in feature_1 file
+>>>>>>> feature_1
