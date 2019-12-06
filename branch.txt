@@ -1,1 +1,10 @@
 this is for branc1 in cmd
+
+
+Im making changes in branch for octopus.
+
+
+im doing this for dev test and prod
+
+
+thisssss is ssss the practinsssing after a long time.
