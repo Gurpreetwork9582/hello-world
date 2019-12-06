@@ -5,6 +5,10 @@ making changes for homework.....hello
 
 
 
+<<<<<<< HEAD
 
 
 checking
+=======
+this is also practicing and im trying my best
+>>>>>>> master
