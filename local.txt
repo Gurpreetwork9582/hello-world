@@ -2,6 +2,7 @@ this is to check jenkins
 
 
 making changes for homework.....hello
+<<<<<<< HEAD
 
 
 
@@ -11,4 +12,6 @@ making changes for homework.....hello
 checking
 =======
 this is also practicing and im trying my best
+>>>>>>> master
+=======
 >>>>>>> master
